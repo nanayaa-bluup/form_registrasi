@@ -3,7 +3,6 @@ class CustomTextField extends StatelessWidget {
 final TextEditingController controller;
 final String label;
 final String? hint;
-
 final IconData? prefixIcon;
 final bool obscureText;
 final TextInputType keyboardType;
